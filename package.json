@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/htsnet/leitor-de-comentarios-instagram#readme",
   "dependencies": {
-    "puppeteer": "^5.2.1"
+    "puppeteer": "^5.2.1",
+    "bl": ">=4.0.3"
   }
 }
